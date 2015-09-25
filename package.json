@@ -2,6 +2,10 @@
   "name": "tabris-getting-started",
   "description": "Tabris.js - Hello, World!",
   "main": "helloworld.js",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/DartGo/HelloWorld.git"
+  },
   "dependencies": {
     "tabris": "1.2.0"
   }
